@@ -111,7 +111,7 @@ const handleSubmit = (e: React.FormEvent) => {
                   </div>
                   <div>
                     <p className="text-gray-400">Phone</p>
-                    <p className="text-white">+91 6398446412</p>
+                    <p className="text-white">+91 639xxxxx12</p>
                   </div>
                 </div>
 
